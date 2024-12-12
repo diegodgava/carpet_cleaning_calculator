@@ -1,0 +1,23 @@
+{
+    "services": {
+      "clean": {
+        "room": 50,
+        "bath": 30,
+        "entry": 20,
+        "staircase": 40
+      },
+      "protect": {
+        "room": 20,
+        "bath": 15,
+        "entry": 10,
+        "staircase": 25
+      },
+      "deodorize": {
+        "room": 10,
+        "bath": 8,
+        "entry": 5,
+        "staircase": 15
+      }
+    }
+  }
+  
